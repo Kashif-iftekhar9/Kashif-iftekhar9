@@ -43,25 +43,6 @@ I'm uploading my journey on GitHub to stay consistent and improve daily.
 - Networking (OSI Model, TCP/IP, Subnetting)
 - Ethical Hacking
 
----
-
-## 🎯 Goals for 2026
-- 🚀 Upload 5+ cybersecurity projects
-- 💻 Upload 5+ CSE-related projects
-- 🔐 Build Python-based security tools
-- 🛠️ Learn 20+ Kali Linux tools
-- 📡 Improve networking & Linux mastery
-
----
-
-## 📂 Featured Projects (Coming Soon)
-- 🔐 Python Password Generator
-- 📡 Simple Port Scanner
-- 🐧 Linux Automation Scripts
-- 🧪 Basic Hacking Tools Practice
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Kashif-iftekhar9&show_icons=true&theme=radical" height="160px" />
