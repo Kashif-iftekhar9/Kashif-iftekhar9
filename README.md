@@ -1,7 +1,7 @@
 <!-- Stylish GitHub Profile README for Kashif -->
 
 <h1 align="center">Hi, I'm <span style="color:#00eaff;">Kashif Iftekhar</span> 👋</h1>
-<h3 align="center">🚀 1st Year Cybersecurity Student | Linux | Python | C | Networking</h3>
+<h3 align="center">🚀 2nd Year Cybersecurity Student | Linux | Python | Cryptography| SQL/MYSQL | Networking</h3>
 
 ---
 
