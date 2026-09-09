@@ -1,61 +1,155 @@
-<!-- Stylish GitHub Profile README for Kashif -->
+<h1 align="center">Hi 👋, I'm Kashif Iftekhar</h1>
 
-<h1 align="center">Hi, I'm <span style="color:#00eaff;">Kashif Iftekhar</span> 👋</h1>
-<h3 align="center">🚀 2nd Year Cybersecurity Student | Linux | Python | Cryptography | SQL/MYSQL | Networking</h3>
+<h3 align="center">
+🚀 Cybersecurity Student | 🐍 Python | 🐧 Linux | 🌐 Networking
+</h3>
 
----
-
-## 🌟 About Me
-I'm a passionate beginner in **Cybersecurity**, currently exploring and building my foundations in:
-- 🐧 Linux & Command Line
-- 🔥 Kali Linux Tools
-- 🐍 Python for Security
-- 🧰 Git & GitHub
-- ⚖️ Cyber Laws
-- 🕵️ Ethical Hacking Basics
-
-I'm uploading my journey on GitHub to stay consistent and improve daily.
-
----
-
-## 🛠️ Tech Stack & Tools
-### **Languages:**
-- 🐍 Python
-- 💻 C (Basics)
-
-### **Operating Systems / Tools:**
-- 🐉 Kali Linux
-- 🎯 Parrot OS
-- 🐧 Ubuntu
-- 🧑‍💻 Git & GitHub
-
-### **Cybersecurity Areas:**
-- 📡 Networking Fundamentals
-- 🧪 Scripting Basics
-- 🐚 Bash Scripting (Learning)
-
----
-
-## 📚 Currently Learning
-- Linux Administration
-- Git & GitHub Workflow
-- Python Automation
-- Networking (OSI Model, TCP/IP, Subnetting)
-- Ethical Hacking
-
-## 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kashif-iftekhar9&show_icons=true&theme=radical" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-iftekhar9&layout=compact&theme=radical" height="160px" />
+  <a href="https://github.com/Kashif-iftekhar9">
+    <img src="https://komarev.com/ghpvc/?username=Kashif-iftekhar9&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-## 🔗 Connect With Me
-- 🌐 **GitHub:** [Kashif-iftekhar9](https://github.com/Kashif-iftekhar9)
-- 💼 **LinkedIn:** [Kashif Iftekhar](https://www.linkedin.com/in/kashif-iftekhar-5002a9387)
-- **Instagram:** [Kashif__Iftekhar](https://www.instagram.com/kashif__iftekhar?igsh=Y3BvN294aHgzZGpy)
+## 👨‍💻 About Me
+
+I'm a cybersecurity student passionate about learning how systems work, building projects, and exploring cybersecurity.
+
+- 🔐 Exploring Cybersecurity & Ethical Hacking
+- 🐧 Learning Linux & Command Line
+- 🐍 Building projects with Python
+- 🌐 Learning Computer Networking
+- 🧰 Practicing Git & GitHub
+- 📚 Constantly learning and improving
+- 🚀 Building projects to strengthen my fundamentals
+
+> **Learn → Build → Break → Fix → Repeat**
 
 ---
 
-<h3 align="center">⭐ Always Open to Collaborating and Learning New Things!</h3>
+## 🛠️ Skills & Technologies
+
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,git,github,vscode" />
+</p>
+
+### 🐧 Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali" />
+</p>
+
+### 🔐 Cybersecurity
+
+- Linux & Command Line
+- Networking Fundamentals
+- Ethical Hacking Basics
+- Python for Security
+- Bash Scripting
+- Cryptography Fundamentals
+- Cybersecurity Tools
+
+### 🗄️ Databases
+
+- MySQL
+- SQL
+
+---
+
+## 📚 Currently Learning
+
+```text
+🐧 Linux Administration
+🔐 Cybersecurity
+🌐 Networking & TCP/IP
+🐍 Python Automation
+🧰 Git & GitHub
+🛡️ Ethical Hacking
+💻 Computer Systems
+````
+
+---
+
+## 🚀 Projects
+
+Some of the projects I'm currently building and practicing with:
+
+* 🐍 Python Beginner Projects
+* 🏦 Simple Banking Application
+* 🎲 Dice Game
+* 🔢 Number Guessing Game
+* 🧮 Tip Calculator
+* 🏷️ Brand Name Generator
+
+More projects coming soon... 🚀
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Kashif-iftekhar9&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    height="180"
+  />
+
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-iftekhar9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" 
+ height="180"
+/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Kashif-iftekhar9&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Kashif-iftekhar9&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Kashif-iftekhar9">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kashif-iftekhar-5002a9387">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/kashif__iftekhar">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+  🚀 Building Skills. Building Projects. Building My Future.
+</h3>
+
+<p align="center">
+  ⭐ Always learning • Always building • Always improving
+</p>
+```
